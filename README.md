@@ -29,7 +29,6 @@ BibTeX:
 }
 ````
 
----
 
 ## Methods
 
